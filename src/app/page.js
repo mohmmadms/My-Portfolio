@@ -13,7 +13,7 @@ export default function Home() {
         transition={{ duration: 1 }}
       >
         <h1 className="text-5xl md:text-7xl font-extrabold bg-gradient-to-r from-purple-400 to-pink-600 text-transparent bg-clip-text mb-6">
-          Hi, I'm Mohammad — I design <span className="underline decoration-pink-500">bold</span> digital experiences.
+          Hi, I&apos;m Mohammad — I design <span className="underline decoration-pink-500">bold</span> digital experiences.
         </h1>
         <p className="text-gray-400 text-lg md:text-xl mb-8">
           Cloud Engineer & Full Stack developer who loves turning ideas into immersive digital experiences.
