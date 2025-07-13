@@ -25,7 +25,7 @@ export default function Home() {
           </button>
           </Link>
            <a
-    href="/Mohammad_CV.pdf"
+    href="/CV_Mohammad.pdf"
     download
     className="border border-white px-6 py-3 rounded-xl hover:bg-white hover:text-black transition"
   >
